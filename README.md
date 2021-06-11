@@ -1,11 +1,11 @@
 # Project Name
 
-> One paragraph statement about the project.
+> Simple project with react redux.
 
 ![screenshot](./ss1.JPG)
+
 ![screenshot](./ss2.JPG)
 
-Simple project with react redux.
 
 ## Built With
 
