@@ -1,4 +1,4 @@
-# Project Name
+# Eshop
 
 > Simple project with react redux.
 
