@@ -2,8 +2,8 @@
 
 > One paragraph statement about the project.
 
-![screenshot](./ss1)
-![screenshot](./ss2)
+![screenshot](./ss1.JPG)
+![screenshot](./ss2.JPG)
 
 Simple project with react redux.
 
@@ -15,10 +15,6 @@ Simple project with react redux.
 - Semantic UI
 - Axios
 
-<!-- ## Live Demo
-
-[Live Demo Link](https://livedemo.com) -->
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -28,12 +24,6 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
