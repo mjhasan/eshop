@@ -2,7 +2,7 @@
 
 > Simple project with react redux.
 
-![screenshot](./ss1.JPG)
+![screenshot](./ss1.JPG)\
 <br/>
 ![screenshot](./ss2.JPG)
 
